@@ -272,6 +272,7 @@ void ls_al(void){
         }
     }
     while(n > 0);
+    printf("\n");
 }
 
 // settings of the flags
